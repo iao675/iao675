@@ -1,5 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Иванов+Алексей+Олегович)](https://git.io/typing-svg)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iao675)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iao675&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iao675)](https://git.io/streak-stats)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=iao675)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iao675)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iao675&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
