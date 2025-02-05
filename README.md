@@ -1,9 +1,9 @@
 # 伊万诺夫*阿列克谢*奥列戈维奇
 ## CN
 ### -
-# Ivanov Alexey Olegovich
+# Ivanov Aleksei Olegovich
 ## EN
 ### -
-# Иванов Алексей Олегович  
+# Иванов Алексей Олегович
 ## RU
 ### -
